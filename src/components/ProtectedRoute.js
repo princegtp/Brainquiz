@@ -162,7 +162,7 @@ function ProtectedRoute({ children }) {
               onClick={() => setCollapsed(false)} // Hide sidebar
             ></i>
 
-            <h1 className="md:text-2xl flex   items-center ml-[-5rem]  text-lg md:ml-3 text-white "> <img className="w-[1.5rem]   mx-2  " src="/brainquiz.png"/> BrainQuiz</h1>
+            <h1 className="md:text-2xl flex   items-center ml-[-5rem]  text-lg md:ml-3 text-white "> <img className="w-[1.5rem]   mx-2  " src="/brainquiz.png"/>Quizflix</h1>
 
 
             <div className=" flex gap-1 text-black items-center">
