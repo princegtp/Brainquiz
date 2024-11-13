@@ -37,7 +37,7 @@ function Home() {
     user && (
       <div className="w-full h-screen bg-white">
 
-        <PageTitle title={`Hi ${user.name}, Welcome to BrainQuiz`} />
+        <PageTitle title={`Hi ${user.name}, Welcome to Quizflix`} />
         
         {/* Card Grid Layout */}
         <Row gutter={[20, 20]} className="flex justify-evenly w-full ">
